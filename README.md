@@ -1,4 +1,6 @@
-🏫 Student in geoinformatics at the **Paris Lodron Universität Salzburg**
+# Léo Legrand
+
+🏫 Student in web and application development
 
 🌐 Passionate about applications development, AI, computer graphics, and more...
 
