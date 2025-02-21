@@ -53,7 +53,7 @@
     <span>&nbsp;</span>
     <img alt="Python" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=python" />
     <span>&nbsp;</span>
-    <img alt="C#" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=csharp" />
+    <img alt="C#" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cs" />
   </div>
 
   <div>
