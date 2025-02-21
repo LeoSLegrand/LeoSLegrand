@@ -1,6 +1,6 @@
 # Léo Legrand
 
-🏫 Student in web and application development
+🏫 Student in web and software development
 
 🌐 Passionate about applications development, AI, computer graphics, and more...
 
@@ -14,7 +14,7 @@
 	<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <span>&nbsp;</span>
-<a href="discordapp.com/users/618459114917462047">
+<a href="https://discordapp.com/users/618459114917462047">
 	<img src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
