@@ -44,7 +44,7 @@
     <h3>Web</h3>
     <img alt="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js"/>
     <span>&nbsp;</span>
-    <img alt="Laravel" width="40px" src="https://skillicons.dev/icons?i=react" />
+    <img alt="Laravel" width="40px" src="https://skillicons.dev/icons?i=laravel" />
   </div>
 
   <div>
@@ -53,14 +53,14 @@
     <span>&nbsp;</span>
     <img alt="Python" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=python" />
     <span>&nbsp;</span>
-    <img alt="C#" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cpp" />
+    <img alt="C#" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=csharp" />
   </div>
 
   <div>
     <h3>Database</h3>
     <img alt="MySQL" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql" />
     <span>&nbsp;</span>
-    <img alt="SQLite" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mongodb"/>
+    <img alt="SQLite" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=sqlite" />
   </div>
 
   <div>
