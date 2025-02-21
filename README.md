@@ -27,3 +27,14 @@
   <a href="https://github.com/LeoSLegrand/LaravelAeroport">
     <img height=150 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=LeoSLegrand&repo=LaravelAeroport&theme=gruvbox&hide_border=true&border_radius=12" />
   </a>
+</div>
+
+## Stats
+<div align="center" style="display: grid; gap: 10%; justify-items: center;">
+  <a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSLegrand&layout=donut&theme=gruvbox&hide_border=true&border_radius=12" />
+  </a>
+  <a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeoSLegrand&show_icons=true&theme=gruvbox&hide_border=true&border_radius=12" />
+  </a>
+</div>
