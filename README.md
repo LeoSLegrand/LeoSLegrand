@@ -47,6 +47,8 @@
     <img alt="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js"/>
     <span>&nbsp;</span>
     <img alt="Laravel" width="40px" src="https://skillicons.dev/icons?i=laravel" />
+    <span>&nbsp;</span>
+    <img alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=typescript" />
   </div>
 
   <div>
