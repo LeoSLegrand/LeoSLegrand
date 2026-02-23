@@ -29,13 +29,6 @@
   </a>
 </div>
 
-## Stats
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs/?username=LeoSLegrand&layout=donut&theme=gruvbox&hide_border=true&border_radius=12" />
-  <img height="200" src="https://github-readme-stats.tuhidulhossain.com/api?username=LeoSLegrand&show_icons=true&theme=gruvbox&hide_border=true&border_radius=12" />
-</p>
-
 ## Languages and Tools
 
 <div align="center">
