@@ -55,6 +55,8 @@
     <img alt="MySQL" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql" />
     <span>&nbsp;</span>
     <img alt="SQLite" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=sqlite" />
+	<span>&nbsp;</span>
+    <img alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgres" />
   </div>
 
   <div>
