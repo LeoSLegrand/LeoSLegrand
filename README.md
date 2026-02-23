@@ -25,15 +25,15 @@
     <img height="150" width="400" src="https://github-readme-stats.tuhidulhossain.com/api/pin/?username=LeoSLegrand&repo=MegaCasting&theme=gruvbox&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/LeoSLegrand/robot_battle">
-    <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LeoSLegrand&repo=robot_battle&theme=gruvbox&hide_border=true&border_radius=12" />
+    <img height="150" width="400" src="https://github-readme-stats.tuhidulhossain.com/api/pin/?username=LeoSLegrand&repo=robot_battle&theme=gruvbox&hide_border=true&border_radius=12" />
   </a>
 </div>
 
 ## Stats
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSLegrand&layout=donut&theme=gruvbox&hide_border=true&border_radius=12" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=LeoSLegrand&show_icons=true&theme=gruvbox&hide_border=true&border_radius=12" />
+  <img height="200" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs/?username=LeoSLegrand&layout=donut&theme=gruvbox&hide_border=true&border_radius=12" />
+  <img height="200" src="https://github-readme-stats.tuhidulhossain.com/api?username=LeoSLegrand&show_icons=true&theme=gruvbox&hide_border=true&border_radius=12" />
 </p>
 
 ## Languages and Tools
