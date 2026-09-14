@@ -2,7 +2,7 @@
 
 🏫 Student in web and software development
 
-🌐 Passionate about applications development, AI, computer graphics, and more...
+🌐 Passionate about software development, AI, computer graphics, and more...
 
 ### Contact me :
 
